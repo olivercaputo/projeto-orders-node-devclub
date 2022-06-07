@@ -5,9 +5,9 @@
 
 <br>
 
-<!-- <img align=" " height="350px" src="./assets/template-easy-shopping-01.jpg" alt="easy-shopping-interface"/>
+<img src="./img/projeto-node-orders.jpg" alt="projeto-orders"/>
 
-<img height="350px" src="./assets/template-easy-shopping-02.jpg" alt="projeto-orders-node"/> -->
+<img src="./img/projeto-node-orders-1.jpg" alt="projeto-orders"/>
 
 <h2>📝 Descrição do Projeto:</h2>
 
