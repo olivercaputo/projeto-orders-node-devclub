@@ -3,24 +3,32 @@
 <h3>Projeto Orders - Node - DevClub.</h3>
 <h3>Project Orders - Node - DevClub.</h3>
 
-<img align=" " height="350px" src="./assets/template-easy-shopping-01.jpg" alt="easy-shopping-interface"/>
+<br>
 
-<img height="350px" src="./assets/template-easy-shopping-02.jpg" alt="projeto-orders-node"/>
+<!-- <img align=" " height="350px" src="./assets/template-easy-shopping-01.jpg" alt="easy-shopping-interface"/>
+
+<img height="350px" src="./assets/template-easy-shopping-02.jpg" alt="projeto-orders-node"/> -->
 
 <h2>📝 Descrição do Projeto:</h2>
 
-<h3>Projeto Back-end de pedidos (orders) de uma lanchonete ou hamburgueria utilizando Javascript, NodeJS e o Insomnia.</h3>
+<h3>Projeto Back-end de pedidos (orders) de uma lanchonete ou hamburgueria utilizando Javascript, NodeJS, Express e o Insomnia.</h3>
 
 <h3>Com esse projeto, através das rotas GET, POST, PUT e DELETE é possível criar, consultar, consultar pelo ID, atualizar, mudar o status e deletar pedidos através do Insomnia.</h3>
 
 <br>
 
-<h2>🖥️ Linguagens Utilizadas:</h2>
+<h2>🖥️ O que foi utilizado:</h2>
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
+<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+
+<img align="left" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+
+<br>
+<br>
 <br>
 
 <h2>🧰 Ajustes e melhorias:</h2>
